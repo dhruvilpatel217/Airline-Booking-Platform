@@ -522,13 +522,7 @@ RAZORPAY_CALLBACK_URL=http://localhost:5173
 
 ## Developer
 
-Built with 💗 by Vaishnav Gupta
-
-| Social Media | Username                                                                          |
-|--------------|-----------------------------------------------------------------------------------|
-| Github       | [github.com/vaishnavgupta](https://github.com/vaishnavgupta)                      |
-| LinkedIn     | [linkedin.com/vaishnavgupta](https://www.linkedin.com/in/vaishnavgupta/)          |
-| Portfolio    | [vercel.com/vaishnav-gupta-portfolio](https://vaishnav-gupta-portfolio.vercel.app/) |
+Built with 💗 by Dhruvil Patel
 
 
 
